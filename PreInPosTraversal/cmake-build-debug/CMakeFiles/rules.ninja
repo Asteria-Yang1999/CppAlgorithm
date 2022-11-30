@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "D:\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SE:\Documents\C++\Clion\PreInPosTraversal -BE:\Documents\C++\Clion\PreInPosTraversal\cmake-build-debug
+  command = "D:\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SE:\Codes\C++\CppAlgorithm\PreInPosTraversal -BE:\Codes\C++\CppAlgorithm\PreInPosTraversal\cmake-build-debug
   description = Re-running CMake...
   generator = 1
 

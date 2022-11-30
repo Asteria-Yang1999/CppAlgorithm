@@ -1,4 +1,4 @@
-# Install script for directory: E:/Documents/C++/Clion/PreInPosTraversal
+# Install script for directory: E:/Codes/C++/CppAlgorithm/PreInPosTraversal
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "E:/Documents/C++/Clion/PreInPosTraversal/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/Codes/C++/CppAlgorithm/PreInPosTraversal/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

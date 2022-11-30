@@ -1,0 +1,3 @@
+E:/Codes/C++/CppAlgorithm/PaperFolding/cmake-build-debug/CMakeFiles/PaperFolding.dir
+E:/Codes/C++/CppAlgorithm/PaperFolding/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Codes/C++/CppAlgorithm/PaperFolding/cmake-build-debug/CMakeFiles/rebuild_cache.dir
