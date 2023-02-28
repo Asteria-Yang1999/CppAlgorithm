@@ -1,0 +1,19 @@
+# ninja log v5
+0	439	6982202424406025	CMakeFiles/singleStack.dir/main.cpp.obj	a78426ccbe8c6080
+441	542	6982202425423311	singleStack.exe	e48a1f50d6fc4447
+2	407	6982202673938745	CMakeFiles/singleStack.dir/main.cpp.obj	a78426ccbe8c6080
+408	498	6982202674820460	singleStack.exe	e48a1f50d6fc4447
+2	482	6982340737174090	CMakeFiles/singleStack.dir/main.cpp.obj	a78426ccbe8c6080
+483	603	6982340738358079	singleStack.exe	e48a1f50d6fc4447
+1	407	6982341010775306	CMakeFiles/singleStack.dir/main.cpp.obj	a78426ccbe8c6080
+407	494	6982341011619922	singleStack.exe	e48a1f50d6fc4447
+1	401	6982341213017626	CMakeFiles/singleStack.dir/main.cpp.obj	a78426ccbe8c6080
+401	488	6982341213851610	singleStack.exe	e48a1f50d6fc4447
+2	398	6982341344107568	CMakeFiles/singleStack.dir/main.cpp.obj	a78426ccbe8c6080
+399	485	6982341344938924	singleStack.exe	e48a1f50d6fc4447
+2	412	6982342687106273	CMakeFiles/singleStack.dir/main.cpp.obj	a78426ccbe8c6080
+413	497	6982342687922505	singleStack.exe	e48a1f50d6fc4447
+2	420	6982343123768192	CMakeFiles/singleStack.dir/main.cpp.obj	a78426ccbe8c6080
+420	506	6982343124602012	singleStack.exe	e48a1f50d6fc4447
+2	403	6982344510454748	CMakeFiles/singleStack.dir/main.cpp.obj	a78426ccbe8c6080
+403	487	6982344511271459	singleStack.exe	e48a1f50d6fc4447

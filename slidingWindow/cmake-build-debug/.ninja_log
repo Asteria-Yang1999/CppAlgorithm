@@ -1,0 +1,23 @@
+# ninja log v5
+0	1136	6979551308443737	CMakeFiles/slidingWindow.dir/main.cpp.obj	bd1cb3cf3485c1a
+1137	1518	6979551312245813	slidingWindow.exe	cc23fefe87bb226
+2	453	6979552607433129	CMakeFiles/slidingWindow.dir/main.cpp.obj	bd1cb3cf3485c1a
+453	539	6979552608271475	slidingWindow.exe	cc23fefe87bb226
+2	485	6979553303522984	CMakeFiles/slidingWindow.dir/main.cpp.obj	bd1cb3cf3485c1a
+486	573	6979553304377436	slidingWindow.exe	cc23fefe87bb226
+2	436	6979553946599478	CMakeFiles/slidingWindow.dir/main.cpp.obj	bd1cb3cf3485c1a
+436	523	6979553947452288	slidingWindow.exe	cc23fefe87bb226
+2	445	6979554849221616	CMakeFiles/slidingWindow.dir/main.cpp.obj	bd1cb3cf3485c1a
+446	531	6979554850048246	slidingWindow.exe	cc23fefe87bb226
+2	443	6979556110993378	CMakeFiles/slidingWindow.dir/main.cpp.obj	bd1cb3cf3485c1a
+444	529	6979556111842834	slidingWindow.exe	cc23fefe87bb226
+2	429	6979556441887097	CMakeFiles/slidingWindow.dir/main.cpp.obj	bd1cb3cf3485c1a
+430	515	6979556442715247	slidingWindow.exe	cc23fefe87bb226
+2	538	6979579439585301	CMakeFiles/slidingWindow.dir/main.cpp.obj	bd1cb3cf3485c1a
+538	673	6979579440916654	slidingWindow.exe	cc23fefe87bb226
+2	444	6979583559359807	CMakeFiles/slidingWindow.dir/main.cpp.obj	bd1cb3cf3485c1a
+444	529	6979583560186257	slidingWindow.exe	cc23fefe87bb226
+8	639	6979602125486771	CMakeFiles/slidingWindow.dir/main.cpp.obj	bd1cb3cf3485c1a
+639	775	6979602126814463	slidingWindow.exe	cc23fefe87bb226
+1	444	6979609031924812	CMakeFiles/slidingWindow.dir/main.cpp.obj	bd1cb3cf3485c1a
+444	533	6979609032795170	slidingWindow.exe	cc23fefe87bb226

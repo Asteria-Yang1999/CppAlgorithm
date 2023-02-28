@@ -1,0 +1,9 @@
+# ninja log v5
+0	369	6986864910174241	CMakeFiles/subarraySum.dir/main.cpp.obj	635b105d5cd8d56a
+371	460	6986864911060643	subarraySum.exe	c5ae6e3a3ab144ee
+1	333	6986865613058477	CMakeFiles/subarraySum.dir/main.cpp.obj	635b105d5cd8d56a
+334	411	6986865613803152	subarraySum.exe	c5ae6e3a3ab144ee
+2	327	6986865912259819	CMakeFiles/subarraySum.dir/main.cpp.obj	635b105d5cd8d56a
+327	405	6986865913013101	subarraySum.exe	c5ae6e3a3ab144ee
+2	493	6986880542841043	CMakeFiles/subarraySum.dir/main.cpp.obj	635b105d5cd8d56a
+493	585	6986880543748434	subarraySum.exe	c5ae6e3a3ab144ee

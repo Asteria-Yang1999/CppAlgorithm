@@ -1,0 +1,9 @@
+# ninja log v5
+1	280	6987365651262710	CMakeFiles/countPrimes.dir/main.cpp.obj	9d0d27c8b2b4a36d
+281	366	6987365652100572	countPrimes.exe	905c027bb6de4679
+15	344	6987368347420122	CMakeFiles/countPrimes.dir/main.cpp.obj	9d0d27c8b2b4a36d
+345	425	6987368348197406	countPrimes.exe	905c027bb6de4679
+2	317	6987368707087431	CMakeFiles/countPrimes.dir/main.cpp.obj	9d0d27c8b2b4a36d
+317	395	6987368707843854	countPrimes.exe	905c027bb6de4679
+2	320	6987369366424688	CMakeFiles/countPrimes.dir/main.cpp.obj	9d0d27c8b2b4a36d
+320	398	6987369367179900	countPrimes.exe	905c027bb6de4679

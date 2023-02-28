@@ -1,0 +1,3 @@
+D:/Codes/C++/Clion/singleQueue/cmake-build-debug/CMakeFiles/singleQueue.dir
+D:/Codes/C++/Clion/singleQueue/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Codes/C++/Clion/singleQueue/cmake-build-debug/CMakeFiles/rebuild_cache.dir

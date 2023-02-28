@@ -1,0 +1,3 @@
+C:/Users/22526/Documents/Codes/C++/Clion/TestTime/cmake-build-debug/CMakeFiles/TestTime.dir
+C:/Users/22526/Documents/Codes/C++/Clion/TestTime/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/22526/Documents/Codes/C++/Clion/TestTime/cmake-build-debug/CMakeFiles/rebuild_cache.dir

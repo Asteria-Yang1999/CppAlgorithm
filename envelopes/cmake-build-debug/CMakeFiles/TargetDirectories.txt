@@ -1,0 +1,3 @@
+D:/Codes/C++/Clion/envelopes/cmake-build-debug/CMakeFiles/envelopes.dir
+D:/Codes/C++/Clion/envelopes/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Codes/C++/Clion/envelopes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

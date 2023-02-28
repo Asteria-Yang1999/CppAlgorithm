@@ -1,0 +1,3 @@
+D:/Codes/C++/Clion/superPow/cmake-build-debug/CMakeFiles/superPow.dir
+D:/Codes/C++/Clion/superPow/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Codes/C++/Clion/superPow/cmake-build-debug/CMakeFiles/rebuild_cache.dir

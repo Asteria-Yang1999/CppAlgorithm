@@ -1,0 +1,3 @@
+D:/Codes/C++/Clion/smallSum/cmake-build-debug/CMakeFiles/smallSum.dir
+D:/Codes/C++/Clion/smallSum/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Codes/C++/Clion/smallSum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

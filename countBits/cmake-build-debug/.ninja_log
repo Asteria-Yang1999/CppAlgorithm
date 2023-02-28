@@ -1,0 +1,23 @@
+# ninja log v5
+1	284	6982163740869385	CMakeFiles/countBits.dir/main.cpp.obj	f5072f7cbbe643f1
+285	369	6982163741698951	countBits.exe	d85506cede566958
+2	277	6982166789255409	CMakeFiles/countBits.dir/main.cpp.obj	f5072f7cbbe643f1
+277	352	6982166789973494	countBits.exe	d85506cede566958
+2	287	6982168284554073	CMakeFiles/countBits.dir/main.cpp.obj	f5072f7cbbe643f1
+288	365	6982168285333037	countBits.exe	d85506cede566958
+2	280	6982168989918940	CMakeFiles/countBits.dir/main.cpp.obj	f5072f7cbbe643f1
+281	356	6982168990646990	countBits.exe	d85506cede566958
+2	275	6982169069650428	CMakeFiles/countBits.dir/main.cpp.obj	f5072f7cbbe643f1
+275	352	6982169070389743	countBits.exe	d85506cede566958
+2	271	6982169430035817	CMakeFiles/countBits.dir/main.cpp.obj	f5072f7cbbe643f1
+271	349	6982169430763266	countBits.exe	d85506cede566958
+2	274	6982170410267829	CMakeFiles/countBits.dir/main.cpp.obj	f5072f7cbbe643f1
+274	348	6982170410975964	countBits.exe	d85506cede566958
+1	271	6982171982472479	CMakeFiles/countBits.dir/main.cpp.obj	f5072f7cbbe643f1
+271	394	6982171983664346	countBits.exe	d85506cede566958
+2	309	6982172324497005	CMakeFiles/countBits.dir/main.cpp.obj	f5072f7cbbe643f1
+309	385	6982172325233271	countBits.exe	d85506cede566958
+2	279	6982172551875992	CMakeFiles/countBits.dir/main.cpp.obj	f5072f7cbbe643f1
+280	357	6982172552620556	countBits.exe	d85506cede566958
+1	348	6982173128513215	CMakeFiles/countBits.dir/main.cpp.obj	f5072f7cbbe643f1
+349	425	6982173129263171	countBits.exe	d85506cede566958

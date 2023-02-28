@@ -1,0 +1,27 @@
+# ninja log v5
+0	273	6981706211303553	CMakeFiles/traversal.dir/main.cpp.obj	41aa51951ca74eb0
+275	347	6981706212019565	traversal.exe	75c1cf0213cede82
+2	297	6981706727209313	CMakeFiles/traversal.dir/main.cpp.obj	41aa51951ca74eb0
+298	387	6981706728067337	traversal.exe	75c1cf0213cede82
+2	268	6981706929392285	CMakeFiles/traversal.dir/main.cpp.obj	41aa51951ca74eb0
+269	341	6981706930094093	traversal.exe	75c1cf0213cede82
+2	262	6981707704061205	CMakeFiles/traversal.dir/main.cpp.obj	41aa51951ca74eb0
+262	336	6981707704780841	traversal.exe	75c1cf0213cede82
+2	263	6981708099235892	CMakeFiles/traversal.dir/main.cpp.obj	41aa51951ca74eb0
+264	337	6981708099943735	traversal.exe	75c1cf0213cede82
+1	264	6981708208707411	CMakeFiles/traversal.dir/main.cpp.obj	41aa51951ca74eb0
+265	340	6981708209424218	traversal.exe	75c1cf0213cede82
+2	265	6981708526944164	CMakeFiles/traversal.dir/main.cpp.obj	41aa51951ca74eb0
+266	345	6981708527702101	traversal.exe	75c1cf0213cede82
+2	268	6981711689147666	CMakeFiles/traversal.dir/main.cpp.obj	41aa51951ca74eb0
+268	343	6981711689868433	traversal.exe	75c1cf0213cede82
+2	277	6981713057720082	CMakeFiles/traversal.dir/main.cpp.obj	41aa51951ca74eb0
+277	354	6981713058454718	traversal.exe	75c1cf0213cede82
+2	280	6981714052697166	CMakeFiles/traversal.dir/main.cpp.obj	41aa51951ca74eb0
+281	354	6981714053406978	traversal.exe	75c1cf0213cede82
+2	270	6981715122949925	CMakeFiles/traversal.dir/main.cpp.obj	41aa51951ca74eb0
+270	345	6981715123668005	traversal.exe	75c1cf0213cede82
+2	297	6981716295422045	CMakeFiles/traversal.dir/main.cpp.obj	41aa51951ca74eb0
+297	374	6981716296160071	traversal.exe	75c1cf0213cede82
+2	272	6981718460214132	CMakeFiles/traversal.dir/main.cpp.obj	41aa51951ca74eb0
+272	347	6981718460936683	traversal.exe	75c1cf0213cede82

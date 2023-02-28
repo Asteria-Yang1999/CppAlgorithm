@@ -1,0 +1,3 @@
+D:/Codes/C++/Clion/pancake/cmake-build-debug/CMakeFiles/pancake.dir
+D:/Codes/C++/Clion/pancake/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Codes/C++/Clion/pancake/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/22526/Desktop/Codes/C++/Clion/nConvert/cmake-build-debug/CMakeFiles/nConvert.dir
+C:/Users/22526/Desktop/Codes/C++/Clion/nConvert/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/22526/Desktop/Codes/C++/Clion/nConvert/cmake-build-debug/CMakeFiles/rebuild_cache.dir

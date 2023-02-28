@@ -1,0 +1,9 @@
+# ninja log v5
+0	818	6981534478926994	CMakeFiles/serializeBackSeq.dir/main.cpp.obj	7ed2254e29ed6fc1
+819	2055	6981534491254936	serializeBackSeq.exe	e53cdd307a2b286e
+4	627	6981537160286101	CMakeFiles/serializeBackSeq.dir/main.cpp.obj	7ed2254e29ed6fc1
+628	777	6981537161754420	serializeBackSeq.exe	e53cdd307a2b286e
+2	1060	6981681463838207	CMakeFiles/serializeBackSeq.dir/main.cpp.obj	7ed2254e29ed6fc1
+1060	1399	6981681467201070	serializeBackSeq.exe	e53cdd307a2b286e
+1	419	6981683557186560	CMakeFiles/serializeBackSeq.dir/main.cpp.obj	7ed2254e29ed6fc1
+419	504	6981683558014936	serializeBackSeq.exe	e53cdd307a2b286e

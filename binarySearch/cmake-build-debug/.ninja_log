@@ -1,0 +1,11 @@
+# ninja log v5
+0	293	6976441575137812	CMakeFiles/binarySearch.dir/main.cpp.obj	d20d2704951d83fe
+295	382	6976441576007986	binarySearch.exe	9d9107206d1e650b
+2	291	6976463602729165	CMakeFiles/binarySearch.dir/main.cpp.obj	d20d2704951d83fe
+291	375	6976463603533972	binarySearch.exe	9d9107206d1e650b
+2	275	6976463701943847	CMakeFiles/binarySearch.dir/main.cpp.obj	d20d2704951d83fe
+275	351	6976463702665991	binarySearch.exe	9d9107206d1e650b
+2	264	6976464266001783	CMakeFiles/binarySearch.dir/main.cpp.obj	d20d2704951d83fe
+265	339	6976464266713925	binarySearch.exe	9d9107206d1e650b
+3	285	6976537475673285	CMakeFiles/binarySearch.dir/main.cpp.obj	d20d2704951d83fe
+285	367	6976537476464252	binarySearch.exe	9d9107206d1e650b

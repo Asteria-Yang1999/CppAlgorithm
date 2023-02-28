@@ -1,0 +1,11 @@
+# ninja log v5
+0	1123	6986850147340257	CMakeFiles/pancake.dir/main.cpp.obj	4e9eddd41271f81f
+1125	1530	6986850151373335	pancake.exe	1e06c156ee5eb17a
+2	395	6986850966386025	CMakeFiles/pancake.dir/main.cpp.obj	4e9eddd41271f81f
+395	481	6986850967216171	pancake.exe	1e06c156ee5eb17a
+2	394	6986852835947829	CMakeFiles/pancake.dir/main.cpp.obj	4e9eddd41271f81f
+394	477	6986852836765041	pancake.exe	1e06c156ee5eb17a
+2	392	6986853213324720	CMakeFiles/pancake.dir/main.cpp.obj	4e9eddd41271f81f
+392	475	6986853214123401	pancake.exe	1e06c156ee5eb17a
+2	420	6986853285139884	CMakeFiles/pancake.dir/main.cpp.obj	4e9eddd41271f81f
+421	514	6986853286037517	pancake.exe	1e06c156ee5eb17a
