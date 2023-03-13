@@ -1,0 +1,3 @@
+C:/Users/22526/Desktop/Codes/C++/CppAlgorithm/islandPerimeter/cmake-build-debug/CMakeFiles/islandPerimeter.dir
+C:/Users/22526/Desktop/Codes/C++/CppAlgorithm/islandPerimeter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/22526/Desktop/Codes/C++/CppAlgorithm/islandPerimeter/cmake-build-debug/CMakeFiles/rebuild_cache.dir

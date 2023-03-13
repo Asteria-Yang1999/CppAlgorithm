@@ -1,0 +1,3 @@
+C:/Users/22526/Desktop/Codes/C++/CppAlgorithm/calcEquations/cmake-build-debug/CMakeFiles/calcEquations.dir
+C:/Users/22526/Desktop/Codes/C++/CppAlgorithm/calcEquations/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/22526/Desktop/Codes/C++/CppAlgorithm/calcEquations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
