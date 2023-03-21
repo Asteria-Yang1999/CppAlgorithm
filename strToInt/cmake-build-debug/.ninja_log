@@ -1,0 +1,9 @@
+# ninja log v5
+0	267	7010882551844080	CMakeFiles/strToInt.dir/main.cpp.obj	27c9d73c7f24bb22
+270	361	7010882552751350	strToInt.exe	84a8c5092f1bf34d
+2	265	7010885820392540	CMakeFiles/strToInt.dir/main.cpp.obj	27c9d73c7f24bb22
+266	351	7010885821205691	strToInt.exe	84a8c5092f1bf34d
+2	263	7010886398162243	CMakeFiles/strToInt.dir/main.cpp.obj	27c9d73c7f24bb22
+263	345	7010886398949847	strToInt.exe	84a8c5092f1bf34d
+2	286	7010886526717267	CMakeFiles/strToInt.dir/main.cpp.obj	27c9d73c7f24bb22
+286	373	7010886527545228	strToInt.exe	84a8c5092f1bf34d
