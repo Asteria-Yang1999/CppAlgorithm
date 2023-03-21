@@ -1,0 +1,25 @@
+# ninja log v5
+1	291	7011036327527263	CMakeFiles/inputAndOutput.dir/main.cpp.obj	133b7b54baa5be68
+294	385	7011036328420302	inputAndOutput.exe	c3026e9384e21fc7
+3	378	7011038845227028	CMakeFiles/inputAndOutput.dir/main.cpp.obj	133b7b54baa5be68
+378	472	7011038846133717	inputAndOutput.exe	c3026e9384e21fc7
+2	363	7011045175344367	CMakeFiles/inputAndOutput.dir/main.cpp.obj	133b7b54baa5be68
+364	471	7011045176394225	inputAndOutput.exe	c3026e9384e21fc7
+3	445	7011050613113398	CMakeFiles/inputAndOutput.dir/main.cpp.obj	133b7b54baa5be68
+445	543	7011050614066783	inputAndOutput.exe	c3026e9384e21fc7
+2	371	7011053650871528	CMakeFiles/inputAndOutput.dir/main.cpp.obj	133b7b54baa5be68
+380	474	7011053651879519	inputAndOutput.exe	c3026e9384e21fc7
+2	387	7011055526512609	CMakeFiles/inputAndOutput.dir/main.cpp.obj	133b7b54baa5be68
+387	485	7011055527462560	inputAndOutput.exe	c3026e9384e21fc7
+2	380	7011063040321518	CMakeFiles/inputAndOutput.dir/main.cpp.obj	133b7b54baa5be68
+381	479	7011063041274803	inputAndOutput.exe	c3026e9384e21fc7
+2	376	7011078492470245	CMakeFiles/inputAndOutput.dir/main.cpp.obj	133b7b54baa5be68
+376	477	7011078493434808	inputAndOutput.exe	c3026e9384e21fc7
+2	442	7011080252168860	CMakeFiles/inputAndOutput.dir/main.cpp.obj	133b7b54baa5be68
+443	591	7011080253637188	inputAndOutput.exe	c3026e9384e21fc7
+2	427	7011082985392350	CMakeFiles/inputAndOutput.dir/main.cpp.obj	133b7b54baa5be68
+427	528	7011082986372257	inputAndOutput.exe	c3026e9384e21fc7
+2	684	7011086358004845	CMakeFiles/inputAndOutput.dir/main.cpp.obj	133b7b54baa5be68
+684	817	7011086359309373	inputAndOutput.exe	c3026e9384e21fc7
+3	424	7011087451766609	CMakeFiles/inputAndOutput.dir/main.cpp.obj	133b7b54baa5be68
+424	528	7011087452780111	inputAndOutput.exe	c3026e9384e21fc7
